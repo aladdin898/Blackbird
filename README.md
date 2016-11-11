@@ -1,5 +1,13 @@
+         ____  _              _     ____  _ ____  ___
+        |  _ \| |            | |   |  _ \| |  _ \|   \ 
+        | |_) | |   ____  ___| | _ | |_) | | |_) | |\ \
+        |  _ <| |  / _  |/ __| |/ /|  _ <| |  _ <| | | |
+        | |_) | |_| (_| | (__|   < | |_) | | | \ | |/ /
+        |____/\__/ \____|\___|_|\_\|____/|_|_|  \|___/
+
+
 ## Blackbird-A股神器(A Niubility China Stock Tools)
-Blackbird是一款茁壮成长的A股神器，目前支持Linux, 有任何建议或意见，欢迎联系[Steve](mailto:zhongsizhi@foxmail.com)。
+Blackbird是一款茁壮成长的A股神器, 更多信息详见[Blackbird页面](http://subler.github.io/Blackbird/)。
 
 ### Demo -- 行情模拟器(mdsim)
 ![Blackbird.gif](demo/mdsim.gif)
